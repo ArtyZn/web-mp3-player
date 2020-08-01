@@ -1,0 +1,18 @@
+:root {
+  --main-color: rgba(20, 20, 20, 1);
+  --main-color-hover: rgba(30, 30, 30, 1);
+  --main-text-color: whitesmoke;
+
+  --secondary-color: rgba(40, 40, 40, 1);
+  --secondary-color-hover: rgba(50, 50, 50, 1);
+  --secondary-text-color: gray;
+
+  --special-color: rgba(10, 100, 100, 1);
+
+  --main-border-color: rgba(50, 50, 50, 0.2);
+
+  --navbar-color: rgba(40, 40, 40, 1);
+  --track-info-color: rgba(20, 20, 20, 1);
+  --album-tracks-color: rgba(20, 20, 20, 1);
+  --albums-color: rgba(20, 20, 20, 1);
+}
